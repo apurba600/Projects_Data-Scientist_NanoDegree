@@ -6,7 +6,7 @@ Used my data engineering skillset ( Extract, Transform, Load ) along with my NLP
 Figure eight messages into 36 different categories to solve a real world problem.
 
 ## SUMMARY
-In this project, a machine learning model was developed to classify disaster response messages into 36 different categories. These categories could include things like water, shelter, medical assistance, etc. The model was trained using a dataset of labeled disaster response messages, and NLP techniques were used to process and understand the text of the messages.
+In this project, a machine learning model was developed to classify disaster response messages into 36 different categories. These categories include things like water, shelter, medical aid, etc. The model was trained using a dataset of labeled disaster response messages, and NLP techniques were used to process and understand the text of the messages.
 
 During the training process, the model learned to identify key words and phrases that are indicative of each category. Once trained, the model was able to take in new disaster response messages and accurately predict which category they belonged to.
 
