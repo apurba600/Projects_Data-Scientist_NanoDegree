@@ -5,6 +5,20 @@ MEDIUM POST: https://medium.com/@apurbapandey60/how-to-pick-a-house-for-investme
 Analyzing house features to find the most correlated features which can be helpful for real estate purposes.
 This project also covers using machine learning model to predict the saleprice of the house.
 
+## CRISP-DM process consists of six phases, as follows, which we will be utiziling:
+
+- Business Understanding: In this phase, the objective of the project and the business problem to be solved are defined. The data mining goals and success criteria are also established in this phase.
+
+- Data Understanding: In this phase, the data is collected and explored to gain an understanding of its quality, completeness, and structure. This phase includes tasks such as data exploration, data quality assessment, and data cleaning.
+
+- Data Preparation: In this phase, the data is transformed and cleaned so that it is in a format that can be used for analysis. This phase includes tasks such as missing value imputation, feature scaling, and data normalization.
+
+- Modeling: In this phase, statistical and machine learning models are developed to analyze the data and solve the business problem. This phase includes tasks such as model selection, feature selection, and model evaluation.
+
+- Evaluation: In this phase, the results of the models are evaluated to determine their performance and accuracy. This phase includes tasks such as performance measurement, model comparison, and model tuning.
+
+- Deployment: In this phase, the model is deployed to the production environment and put into use. This phase includes tasks such as model deployment, monitoring, and maintenance.
+
 ## The following libraries were used in the project:
 
 - Pandas: for data wrangling and analysis
